@@ -1,0 +1,33 @@
+.container-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(125, 125, 163);
+}
+
+.container-menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-menu p {
+    margin: 5vh;
+}
+
+.container-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-meio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30vh;
+}
+
+.container-input {
+    margin-bottom: 3vh;
+}
